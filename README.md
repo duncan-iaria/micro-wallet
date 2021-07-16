@@ -4,7 +4,7 @@
 
 ## About the Repo
 
-This challenge is intended to take between one and two hours. This is Bakkt's React Native technical challenge. It's a very simple, bootstrapped Expo app and lightweight back-end. This app is meant to approximate what the real Bakkt app is like (in tech stack, code, and functionality), but it's boiled down to only the essentials.
+This is Bakkt's React Native technical challenge. It's a very simple, bootstrapped Expo app and lightweight back-end. This app is meant to approximate what the real Bakkt app is like (in tech stack, code, and functionality), but it's boiled down to only the essentials.
 
 It uses:
 
@@ -28,7 +28,7 @@ It uses:
 
 ## The Challenge
 
-To complete this challenge, pick one of the challenges below:
+This challenge is intended to take between one and two hours. To complete it, pick one of the challenges below:
 
 1. Build out a P2P Send flow, where you can:
    1. Select a holding
