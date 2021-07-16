@@ -12,14 +12,14 @@ export default {
     screens: {
       Root: {
         screens: {
-          TabOne: {
+          Portfolio: {
             screens: {
-              TabOneScreen: 'one',
+              PortfolioScreen: 'portfolio',
             },
           },
-          TabTwo: {
+          Send: {
             screens: {
-              TabTwoScreen: 'two',
+              SendScreen: 'send',
             },
           },
         },
