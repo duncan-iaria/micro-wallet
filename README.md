@@ -1,5 +1,7 @@
 # Bakkt Micro
 
+<img width="200" src="assets/images/default-screenshot.png" />
+
 ## About the Repo
 
 This challenge is intended to take between one and two hours. This is Bakkt's React Native technical challenge. It's a very simple, bootstrapped Expo app and lightweight back-end. This app is meant to approximate what the real Bakkt app is like (in tech stack, code, and functionality), but it's boiled down to only the essentials.
@@ -61,7 +63,5 @@ In this README (below), please include:
 ## Final Product
 
 Push up your repo/branch to Github and give read access to these users: **spsaucier_bakkt**, **qac-87**, **eugene-kolesnik-b**, **lustig-bakkt**, **duncan-iaria**, **KyleJBolton**, and **mahume** and send the URL of your repo to your recruiter or stephen.saucier@bakkt.com.
-
-<img src="assets/images/default-screenshot.png" />
 
 ---
