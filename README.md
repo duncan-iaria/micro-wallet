@@ -1,6 +1,6 @@
 # Bakkt Micro
 
-<img width="200" src="assets/images/default-screenshot.png" />
+<img width="300" src="assets/images/default-screenshot.png" />
 
 ## About the Repo
 
