@@ -62,7 +62,7 @@ In this README (below), please include:
 
 Push up your repo/branch to Github and give read access to these users: **spsaucier_bakkt**, **qac87**, **eugene-kolesnik-b**, **lustig-bakkt**, and **KyleJBolton** and send the URL of your repo to your recruiter or stephen.saucier@bakkt.com.
 
-<img src="./assets/default-screenshot.png" />
+<img src="assets/images/default-screenshot.png" />
 
 -----
 
