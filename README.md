@@ -23,7 +23,7 @@ It uses:
    1. In the first, run `yarn start`, `yarn ios`, `yarn android`, or `yarn web` (depending on the platform you want to develop on). If you choose web, your app will load up at http://localhost:19006.
    1. In the second, run `yarn serve`. This runs the back-end server, which generates routes and mutations from `db.js`
 1. You should now be presented with a very basic app with a portfolio of some holdings of various types.
-1. Open the GraphiQL environment for your local server: http://localhost:3000/graphql. You can try queries against the back-end here, with autocomplete.
+1. Open the GraphiQL environment for your local server: http://localhost:3005/graphql. You can try queries against the back-end here, with autocomplete.
 1. The app will automatically use the light/dark color scheme that your device's OS has set. See [docs here](https://docs.expo.io/versions/latest/sdk/appearance/) to change this, but note that we don't intend to judge based on support for both. Just note which scheme you focused on in your Readme notes below.
 
 ## The Challenge
