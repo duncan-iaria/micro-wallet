@@ -62,6 +62,6 @@ In this README (below), please include:
 
 ## Final Product
 
-Push up your repo/branch to Github and give read access to these users: **spsaucier_bakkt**, **qac-87**, **eugene-kolesnik-b**, **lustig-bakkt**, **duncan-iaria**, **KyleJBolton**, and **mahume** and send the URL of your repo to your recruiter or stephen.saucier@bakkt.com.
+Push up your repo/branch to Github and give read access to these users: **spsaucier-bakkt**, **qac-87**, **eugene-kolesnik-b**, **lustig-bakkt**, **duncan-iaria**, **KyleJBolton**, and **mahume** and send the URL of your repo to your recruiter or stephen.saucier@bakkt.com.
 
 ---
