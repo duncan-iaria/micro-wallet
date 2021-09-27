@@ -55,7 +55,7 @@ We will evaluate your submission on:
 
 ## Final Product
 
-Push up your repo/branch to Github and follow instructions provided by your recruiter.
+Push up your repo/branch to Github and give **read** access to the users provided by your recruiter.
 
 In this README (below), please include:
 
