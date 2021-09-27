@@ -1,10 +1,10 @@
-# Bakkt Micro
+# Micro Wallet
 
 <img width="300" src="assets/images/default-screenshot.png" />
 
 ## About the Repo
 
-This is Bakkt's React Native technical challenge. It's a very simple, bootstrapped Expo app and lightweight back-end. This app is meant to approximate what the real Bakkt app is like (in tech stack, code, and functionality), but it's boiled down to only the essentials.
+This is a React Native technical challenge. It's a very simple, bootstrapped Expo app and lightweight back-end. This app is meant to approximate what the real Bakkt app is like (in tech stack, code, and functionality), but it's boiled down to only the essentials.
 
 It uses:
 
