@@ -10,7 +10,7 @@ It uses:
 
 1. Typescript
 1. React Native
-1. Expo CLI's basic bootstrapped template (we don't actually use Expo at Bakkt, but it's quicker to set up)
+1. Expo CLI's basic bootstrapped template (we don't actually use Expo in our full-scale application, but it's quicker to set up)
 1. [json-graphql-server](https://github.com/marmelab/json-graphql-server) for the back-end, database, and GraphQL
 1. [Apollo Client](https://www.apollographql.com/docs/react/) (React client for GraphQL requests)
 
@@ -55,7 +55,7 @@ We will evaluate your submission on:
 
 ## Final Product
 
-Push up your repo/branch to Github and give read access to these users: **spsaucier-bakkt**, **qac-87**, **eugene-kolesnik-b**, **lustig-bakkt**, **duncan-iaria**, **KyleJBolton**, and **mahume** and send the URL of your repo to your recruiter or stephen.saucier@bakkt.com.
+Push up your repo/branch to Github and follow instructions provided by your recruiter.
 
 In this README (below), please include:
 
