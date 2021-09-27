@@ -4,7 +4,7 @@
 
 ## About the Repo
 
-This is a React Native technical challenge. It's a very simple, bootstrapped Expo app and lightweight back-end. This app is meant to approximate what the real Bakkt app is like (in tech stack, code, and functionality), but it's boiled down to only the essentials.
+This is a React Native technical challenge. It's a very simple, bootstrapped Expo app and lightweight back-end. This app is meant to approximate what the real app is like (in tech stack, code, and functionality), but it's boiled down to only the essentials.
 
 It uses:
 
